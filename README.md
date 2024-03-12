@@ -1,6 +1,6 @@
 # CRUSADE RULES
 
-## New Army Rules
+## New Roster Rules
 1. Minimum unit composition:  
 ONE Warlord; ONE Battleline
 2. Starting roster: 
@@ -8,9 +8,9 @@ ONE Warlord; ONE Battleline
 3. Maximum Epic Heroes:  
 \< 1000 points: ONE Epic Hero  
 \>= 1000 points: Normal rules apply.
+4. New rosters start with 3 RP.
 
 ## Requisition Points (RP)
-New rosters start with 3 RP
 ### RP Spend Options:
 - 1 RP: INCREASE Roster maximum by 100p.
 - 1 RP: add a character unit to the roster.
