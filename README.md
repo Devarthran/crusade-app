@@ -9,13 +9,11 @@ ONE Warlord; ONE Battleline
 \< 1000 points: ONE Epic Hero  
 \>= 1000 points: Normal rules apply.
 
-## 
-
 ## Requisition Points (RP)
-1. 
+New rosters start with 3 RP
 ### RP Spend Options:
-- 1 RP: INCREASE Roster maximum by 200p ??
-- 
+- 1 RP: INCREASE Roster maximum by 100p.
+- 1 RP: add a character unit to the roster.
 
 ## Disclaminer
 These rules are a work in progress and subject to change based on our whims. 🤪
